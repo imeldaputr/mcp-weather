@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mcp-weather": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/Users/iputri/Documents/mcp-weather",
+        "run",
+        "python",
+        "main.py"
+      ]
+    }
+  }
+}
